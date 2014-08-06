@@ -1,0 +1,5 @@
+hleco_demo:
+    resource: "@HlecoDemoBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
